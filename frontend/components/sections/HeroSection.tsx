@@ -12,7 +12,7 @@ export function HeroSection() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1920&q=80')`,
+            backgroundImage: `url('https://github.com/rickymnit/REAL-CONNECT/blob/main/frontend/components/sections/hero-image.jpeg')`,
           }}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/70" />
